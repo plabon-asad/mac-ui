@@ -11,4 +11,4 @@ Design resources, code or any type of help for Mac(Apple) UI prototype.
 }
 ```
 
-![Image of Crystal Background](https://octodex.github.com/images/yaktocat.png)
+![Image of Crystal Background](/img/nav-bar.png)
